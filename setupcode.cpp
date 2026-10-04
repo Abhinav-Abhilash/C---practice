@@ -7,7 +7,7 @@ int main() {
     string name;
     int place;
 
-    cout << "Enyter you name: ";
+    cout << "Enter you name: ";
     cin >> name;
 
     cout << "Enter your place: ";
